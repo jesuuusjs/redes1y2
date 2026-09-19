@@ -1,0 +1,38 @@
+    /* Colores institucionales */
+:root {
+    --unam-azul: #042d6e;
+    --unam-azul-oscuro: #031a3d;
+    --unam-dorado: #d4af37;
+    --unam-gold-hover: #b8860b;
+    --unam-gold-light: #f5e6ab;
+    --fesc-green: #006341;
+}
+    .temario-link {
+      color: #2B3E6B;
+      text-decoration: none;
+    }
+    .temario-link:hover {
+      text-decoration: underline;
+    }
+.fesc-logo {
+    height: 70px;
+    width: auto;
+}
+.unam-logo {
+    height: 70px;
+    width: auto;
+}
+.fesc-header {
+    background-color: var(--unam-azul);
+    color: white;
+    border-bottom: 3px solid var(--unam-dorado);
+}
+.fesc-footer {
+    background-color: var(--unam-azul-oscuro);
+    color: white;
+    padding: 1rem 0;
+}
+
+.fesc-bg {
+    background-color: #f8f9fa;
+}
