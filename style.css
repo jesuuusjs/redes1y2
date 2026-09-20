@@ -14,14 +14,11 @@
     .temario-link:hover {
       text-decoration: underline;
     }
-.fesc-logo {
+.logos {
     height: 70px;
     width: auto;
 }
-.unam-logo {
-    height: 70px;
-    width: auto;
-}
+
 .fesc-header {
     background-color: var(--unam-azul);
     color: white;
