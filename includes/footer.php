@@ -1,6 +1,6 @@
 <footer class="bg-dark text-white text-center py-4 mt-auto border-top border-secondary">
         <div class="container">
-            <p class="mb-0 text-muted small">&copy; <?php echo date('Y'); ?> FrontendStudio. Todos los derechos reservados.</p>
+            <p class="mb-0 text-muted small">&copy; <?php echo date('Y'); ?> Todos los derechos reservados.</p>
         </div>
     </footer>
 
